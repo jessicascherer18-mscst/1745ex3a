@@ -1,0 +1,23 @@
+﻿body {
+}
+section {
+    float: left;
+    width: 69%;
+}
+aside {
+    border: thin solid #FF6C8C;
+    float: left;
+    width: 30%;
+    min-width: 200px;
+    background-color: #FFE8B3;
+    color: #3B4BFF;
+}
+aside a:link {
+    /*color: #3B4BFF;*/
+    text-decoration: none;
+    color: #3B4BFF;
+}
+aside a:hover {
+    text-decoration: none;
+    color: #BF173A;
+}
